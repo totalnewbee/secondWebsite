@@ -14,6 +14,7 @@ MIJN VRAGEN WEBSITE
 <html>
 	
 <head>
+	<title>fundecon ong</title>
 	<meta charset="utf-8">
 <!--You should include the following <meta> element in all your web pages: -->
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
