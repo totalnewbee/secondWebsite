@@ -16,7 +16,7 @@ MIJN VRAGEN WEBSITE
 <meta charset="utf-8">
 <!--You should include the following <meta> element in all your web pages: -->
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link rel="stylesheet" href= "styles/mystyle.css"> 
+<link rel="stylesheet" href= "mystyle.css"> 
 </head>
 <body onload="window.alert('Welcome to my home page!');">
 <h1>FUNDECON ong </h1>
