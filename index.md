@@ -12,17 +12,17 @@ MIJN VRAGEN WEBSITE
 <li> -->
 <!DOCTYPE html>
 <html>
+	
+<head>
 	<meta charset="utf-8">
 <!--You should include the following <meta> element in all your web pages: -->
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<head>
 
 <style>
-	  
-    *{
+	   *{
   box-sizing: border-box;
 }
-body {
+	body {
  background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
 }
 
