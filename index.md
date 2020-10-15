@@ -17,9 +17,6 @@ MIJN VRAGEN WEBSITE
 <!--You should include the following <meta> element in all your web pages: -->
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" href= "styles/mystyle.css"> 
-<script>
-
-</script>
 <title>
 FUNDECON ong
 </title>
