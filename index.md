@@ -9,13 +9,14 @@ MIJN VRAGEN WEBSITE
 <body>Wij willen alles weten!
 <ul>
 <li>Wat is BOM?
-<li>-->
+<li> -->
 <!DOCTYPE html>
 <html>
-<head>
-<meta charset="utf-8">
+	<meta charset="utf-8">
 <!--You should include the following <meta> element in all your web pages: -->
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<head>
+
 <style>
 	  
     *{
