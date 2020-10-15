@@ -16,7 +16,7 @@ MIJN VRAGEN WEBSITE
 <meta charset="utf-8">
 <!--You should include the following <meta> element in all your web pages: -->
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <style>
+  <style>{
     *{
   box-sizing: border-box;
 }
@@ -32,6 +32,7 @@ h2
 	{
 		 background-color: darkblue; color: yellow;
 		 
+	}
 	}
 
  
