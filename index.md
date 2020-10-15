@@ -33,13 +33,12 @@ h2
 		 background-color: darkblue; color: yellow;
 		 
 	}
-	}
-
- 
+	
 p {
   text-indent: 50px;
   text-align: justify;
   letter-spacing: 3px;
+}
 }
     
 
