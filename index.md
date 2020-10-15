@@ -41,8 +41,9 @@ p {
   text-align: justify;
   letter-spacing: 3px;
 }
+ </style>
 
-    </style>
+   
 <!-- <link rel="stylesheet" href= "mystyle.css"> -->
 </head>
 <body onload="window.alert('Welcome to my home page!');">
