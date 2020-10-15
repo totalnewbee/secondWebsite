@@ -44,7 +44,7 @@ p {
     
 
 </style>
-<link rel="stylesheet" href= "mystyle.css"> 
+<!-- <link rel="stylesheet" href= "mystyle.css"> -->
 </head>
 <body onload="window.alert('Welcome to my home page!');">
 <h1>FUNDECON ong </h1>
