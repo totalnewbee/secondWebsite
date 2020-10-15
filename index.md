@@ -16,6 +16,33 @@ MIJN VRAGEN WEBSITE
 <meta charset="utf-8">
 <!--You should include the following <meta> element in all your web pages: -->
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    *{
+  box-sizing: border-box;
+}
+body {
+ background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
+}
+
+h1  
+{
+	color:orange;
+	}
+h2
+	{
+		 background-color: darkblue; color: yellow;
+		 
+	}
+
+ 
+p {
+  text-indent: 50px;
+  text-align: justify;
+  letter-spacing: 3px;
+}
+    
+
+</style>
 <link rel="stylesheet" href= "mystyle.css"> 
 </head>
 <body onload="window.alert('Welcome to my home page!');">
