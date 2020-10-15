@@ -12,13 +12,11 @@ MIJN VRAGEN WEBSITE
 <li> -->
 <!DOCTYPE html>
 <html>
-	
-<head>
+	<head>
 	<title>fundecon ong</title>
 	<meta charset="utf-8">
 <!--You should include the following <meta> element in all your web pages: -->
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
 <style>
 	   *{
   box-sizing: border-box;
