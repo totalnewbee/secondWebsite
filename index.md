@@ -18,11 +18,7 @@ MIJN VRAGEN WEBSITE
 <!--You should include the following <meta> element in all your web pages: -->
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <style>
-	   *
-	{
-  box-sizing: border-box;
-}
-	body {
+	  body {
  background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
 }
 h1  
