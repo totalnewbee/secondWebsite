@@ -24,7 +24,6 @@ MIJN VRAGEN WEBSITE
 	body {
  background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
 }
-
 h1  
 {
 	color:orange;
