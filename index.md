@@ -45,7 +45,7 @@ p {
    
 <!-- <link rel="stylesheet" href= "mystyle.css"> -->
 </head>
-<body onload="window.alert('Welcome to my home page!');">
+<body>
 <h1>FUNDECON ong </h1>
 <h2><br><ul><li> Promover el utilizo de la bici y el desarollo de una 
 infrastructura completa de carreteras para bicis en Panama City.</h2>
