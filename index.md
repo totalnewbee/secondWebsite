@@ -31,8 +31,7 @@ h1
 h2
 	{
 		 background-color: darkblue; color: yellow;
-		 
-	}
+		 }
 	
 p {
   text-indent: 50px;
