@@ -13,11 +13,7 @@ MIJN VRAGEN WEBSITE
 <!DOCTYPE html>
 <html>
 	<head>
-	<title>fundecon ong</title>
-	<meta charset="utf-8">
-<!--You should include the following <meta> element in all your web pages: -->
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<style> *
+		<style> *
 	{
   box-sizing: border-box;
 }
@@ -39,6 +35,11 @@ p {
   letter-spacing: 3px;
 }
  </style>
+	<title>fundecon ong</title>
+	<meta charset="utf-8">
+<!--You should include the following <meta> element in all your web pages: -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
 
    
 <!-- <link rel="stylesheet" href= "mystyle.css"> -->
